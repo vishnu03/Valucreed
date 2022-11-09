@@ -1,0 +1,6 @@
+C:\Users\raj.soni\source\moveFile\moveFile\bin\Debug\moveFile.exe.config
+C:\Users\raj.soni\source\moveFile\moveFile\bin\Debug\moveFile.exe
+C:\Users\raj.soni\source\moveFile\moveFile\bin\Debug\moveFile.pdb
+C:\Users\raj.soni\source\moveFile\moveFile\obj\Debug\moveFile.csproj.CoreCompileInputs.cache
+C:\Users\raj.soni\source\moveFile\moveFile\obj\Debug\moveFile.exe
+C:\Users\raj.soni\source\moveFile\moveFile\obj\Debug\moveFile.pdb
